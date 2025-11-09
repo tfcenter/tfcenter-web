@@ -11,11 +11,11 @@ git clone https://github.com/tfcenter/tfcenter-web.git
 注：需安装git工具（ apt-get update; apt-get install git -y）
 ### (2) 运行vue代码
 进入tfcenter-web目录
-root@:/opt/tfcenter-web# npm install
-root@:/opt/tfcenter-web# npm run serve
+#### root@:/tfcenter-web# npm install
+#### root@:/tfcenter-web# npm run serve
 注：需安装npm工具(apt-get install npm -y)
 
 ### (3) 编译vue代码，生成dist文件
-root@:/opt/tfcenter-web# npm run build
+#### root@:/tfcenter-web# npm run build
 
 # 使用vue dist前端文件
