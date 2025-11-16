@@ -20,7 +20,7 @@ git clone https://github.com/tfcenter/tfcenter-web.git
 <img width="1166" height="461" alt="image" src="https://github.com/user-attachments/assets/ee8d662e-e87c-4ffc-b8ae-b9c61493c5ed" />
 
 # 使用vue dist前端文件
-### (1) 在tfcenter目录中新建static目录并拷贝dist目录的所有文件放到static目录中
+### (1) 在tfcenter（需要使用v4.0.2版本的软件安装包）目录中新建static目录并拷贝dist目录的所有文件放到static目录中
 <img width="650" height="135" alt="image" src="https://github.com/user-attachments/assets/d336c9a5-a6c6-46b7-99aa-7e70641d6a23" />
 
 ### (2) 重启tfcenter软件后生效（没有旧版入口标识，表示成功生效）
